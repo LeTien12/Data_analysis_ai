@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Data-Analysis
+Version: 0.0.1
+Author: TienLe
+Author-email: tle38413@gmail.com
+Requires-Dist: pandas
+Requires-Dist: streamlit
+Requires-Dist: matplotlib
+Requires-Dist: python-dotenv
+Requires-Dist: seaborn
+Requires-Dist: langchain-google-genai
+Requires-Dist: langchain-experimental
+Requires-Dist: pygwalker
