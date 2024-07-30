@@ -8,7 +8,6 @@
 
 ![](image/anh_1.png)
 ![](image/anh_2.png)
-![](image/anh_3.png)
 ![](image/anh_4.png)
 ![](image/anh_5.png)
 
